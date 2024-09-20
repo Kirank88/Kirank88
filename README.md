@@ -8,8 +8,6 @@
 
 - 🔭 I'm currently studying in *Bangalore Institue of Technology*
 
-- 🌱 I'm currently learning *React.js, Firebase*
-
 - 🎓 I'm currently pursuing *Bachelor of Engineering in Information Technology*
 
 - 👨‍💻 All of my projects are available at [Kirank88](https://github.com/dashboard)
